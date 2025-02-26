@@ -25,6 +25,8 @@ The project includes a testbench to validate the functionality of the RAM module
 
 Overall, this project serves as a fundamental introduction to memory management in digital systems. It provides insight into how synchronous RAM operates, highlighting the importance of clock cycles in ensuring orderly data transactions. This knowledge is essential for fields such as embedded systems, computer architecture, and VLSI design, where memory plays a critical role in system performance. By successfully implementing a simple synchronous RAM, this project lays the foundation for understanding more complex memory architectures, such as cache memory, multi-port RAM, and dynamic memory systems.
 
+OUTPUT : ![Image](https://github.com/user-attachments/assets/b40ac48c-5544-431a-8e81-5f87b9e978cf)
+
 
 
 
